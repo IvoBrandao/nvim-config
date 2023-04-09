@@ -1,0 +1,17 @@
+require "config.user_settings"
+require "config.user_mappings"
+require "config.user_plugins"
+require "config.user_theme"
+require "config.user_nvimtree"
+require "config.user_whichkey"
+require "config.user_bufferline"
+require "config.user_lualine"
+require "config.user_treesitter"
+require "config.user_identline"
+require "config.user_telescope"
+require "config.user_gitsigns"
+require "config.user_cmp"
+require "config.user_toogleterm"
+require "config.user_dap"
+
+
